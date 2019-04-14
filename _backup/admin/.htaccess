@@ -1,0 +1,4 @@
+AuthUserFile /var/www/nathanchevalier/urbex/admin/.htpasswd
+AuthName "L'accès à ce répertoire est sécurisé."
+AuthType Basic
+Require valid-user
